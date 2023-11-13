@@ -1,0 +1,1 @@
+You can hide the debug paths and traces with the help of a through-hole PCB assembly. It will be hard for an attacker to track these debug paths, which are placed between the two layers. As it is invisible from the outside, reverse engineering becomes harder. It decreases the potential probing threshold for the hacker.
