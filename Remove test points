@@ -1,0 +1,2 @@
+Test points on a PCB (Printed Circuit Board) are specific locations designated for testing, debugging, and troubleshooting during the manufacturing and assembly process. 
+If you cut down the unnecessary test point, it will be harder for the attacker to clone the design. Some test points give direct access to the debug peripherals of the microcontroller.
