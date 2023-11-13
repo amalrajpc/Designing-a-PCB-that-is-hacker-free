@@ -2,3 +2,9 @@
 Designing a hacker-resistant Printed Circuit Board (PCB) helps to  prevent unauthorized access or manipulation/ tampering.
 Still, a single step won't be enough to stop a determined hacker from breaking into a PCB design.
 From PCB design to assembly, there are several strategies that designers can implement to create secure  PCBs that are resistant to PCB hacking.
+
+## Verify that descriptive silkscreens are removed from PCBs
+## Verify that debug paths and traces are depopulated from production PCBs
+## Use compotents withouts leads
+## Remove test points
+## Minimize the risk of side channel attack
