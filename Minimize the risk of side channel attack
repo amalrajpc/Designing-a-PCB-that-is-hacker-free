@@ -1,0 +1,5 @@
+A side-channel attack (SCA) is a security exploit that attempts to extract secrets from a chip or a system. 
+This can be achieved by measuring or analyzing various physical parameters. 
+Examples include supply current, execution time, and electromagnetic emission.
+Use a microcontroller that emits less electromagnetic radiation.
+Seperate the sesitive traces away from the noisey signal lines.
