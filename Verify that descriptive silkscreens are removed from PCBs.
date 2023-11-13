@@ -1,4 +1,5 @@
 The descriptive silkscreen that displays information relating to debugging are present in the  majority of production PCBs.
+Remove debuggable header from production PCBs. 
 Removing extraneous information from the PCB assembly and designing process will prevents hackers from getting the information they need.
 
 
